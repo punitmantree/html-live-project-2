@@ -14,4 +14,4 @@
 # Screenshot
 
 ![Project 2](/project_2_ss.png "Project Screenshot")
-[![Project 2](https://img.shields.io/badge/Project-Restaurant-yellowgreen)](https://www.google.com "Project 2")
+[![Project 2](https://img.shields.io/badge/Project-Restaurant-yellowgreen)](https://html-live-project-two.netlify.app/ "Project 2")
